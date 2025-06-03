@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=http://instant4dpro.com" />
-    <title>Redirecting...</title>
-  </head>
-  <body>
-    If you are not redirected, <a href="http://instant4dpro.com">click here</a>.
-  </body>
-</html>
+Welcome to <a href="http://instant4dpro.com">instant4Dpro</a>.
+ 
